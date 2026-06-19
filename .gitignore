@@ -6,3 +6,5 @@ dist/
 .wrangler/
 src/data.generated.ts
 data/flood-postcodes.json
+dist-mcpb/
+mcpb-build/
