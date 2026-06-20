@@ -17,6 +17,7 @@
   "documentation": "https://qinisolabs.github.io/floodwise",
   "support": "https://github.com/qinisolabs/floodwise/issues",
   "license": "Apache-2.0",
+  "privacy_policies": ["https://qinisolabs.github.io/privacy.html"],
   "keywords": ["flood-risk", "environment-agency", "uk-postcode", "england", "insurance"],
   "server": {
     "type": "node",
