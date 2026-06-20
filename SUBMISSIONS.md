@@ -8,7 +8,7 @@ Glama and mcp.so auto-ingest from it.
 | MCP Registry (official) | `mcp-publisher publish` (see PUBLISH.md §4) | ☐ |
 | Glama | Free "Add Server" form, or auto-ingest from the registry. Never add billing. | ☐ |
 | mcp.so | Auto-ingests from the registry; submit manually if not picked up. | ☐ |
-| awesome-mcp-servers | Manual PR adding floodwise under an appropriate category. | ☐ |
+| awesome-mcp-servers | Manual PR (Location Services). | ✅ merged 2026-06-19 |
 | Smithery | `smithery.yaml` present; HTTP-only form — list as stdio/npx. | ☐ |
 
 ## Notes
