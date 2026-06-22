@@ -1,6 +1,6 @@
 {
   "name": "floodwise",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "mcpName": "io.github.qinisolabs/floodwise",
   "description": "Verified England flood-risk-by-postcode lookups for AI agents — official Environment Agency data, not guesses.",
   "license": "Apache-2.0",
